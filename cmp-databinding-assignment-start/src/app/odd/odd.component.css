@@ -1,0 +1,11 @@
+p { 
+    display:inline-block; 
+    width:75px; 
+    float:left; 
+    background-color: #cc0000; 
+    color: white; 
+    border:1px solid #660000; 
+    padding:15px 10px; 
+    margin:0; 
+    text-align:center; 
+}
